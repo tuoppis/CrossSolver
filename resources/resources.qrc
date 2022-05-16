@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/files">
+        <file alias="english.dic">dictionary.dic</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>
